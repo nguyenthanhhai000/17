@@ -43,20 +43,7 @@
                 highHud: 85,
                 lowHud: 75
             }
-            {
-                type: "Ớt Ngọt",
-                highTemp: 20,
-                lowTemp: 18,
-                highHud: 85,
-                lowHud: 75
-            }
-            {
-                type: "Rau Mùi",
-                highTemp: 20,
-                lowTemp: 18,
-                highHud: 85,
-                lowHud: 75
-            }
+            
         ]
         vm.zone2Default = [
             {
